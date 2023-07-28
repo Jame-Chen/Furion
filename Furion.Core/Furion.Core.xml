@@ -1,0 +1,208 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Furion.Core</name>
+    </assembly>
+    <members>
+        <member name="P:Furion.Core.Models.FileUploader.Name">
+            <summary>
+            Research
+            </summary>
+        </member>
+        <member name="P:Furion.Core.Models.FileUploader.CreateTime">
+            <summary>
+            Research
+            </summary>
+        </member>
+        <member name="P:Furion.Core.Models.SysDepartment.Name">
+            <summary>
+            Research
+            </summary>
+        </member>
+        <member name="P:Furion.Core.Models.SysDocument.Name">
+            <summary>
+            Research
+            </summary>
+        </member>
+        <member name="P:Furion.Core.Models.SysDocument.CreateTime">
+            <summary>
+            Research
+            </summary>
+        </member>
+        <member name="P:Furion.Core.Models.SysDocumentTalk.Content">
+            <summary>
+            Research
+            </summary>
+        </member>
+        <member name="P:Furion.Core.Models.SysDocumentTalk.CreateTime">
+            <summary>
+            Research
+            </summary>
+        </member>
+        <member name="P:Furion.Core.Models.SysEmail.ReadTime">
+            <summary>
+            Research
+            </summary>
+        </member>
+        <member name="P:Furion.Core.Models.SysEmail.CreateTime">
+            <summary>
+            Research
+            </summary>
+        </member>
+        <member name="P:Furion.Core.Models.SysEmailTemp.IsDefault">
+            <summary>
+            RadioButton
+            </summary>
+        </member>
+        <member name="P:Furion.Core.Models.SysEmailTemp.CreateTime">
+            <summary>
+            Research
+            </summary>
+        </member>
+        <member name="P:Furion.Core.Models.SysException.Message">
+            <summary>
+            Research
+            </summary>
+        </member>
+        <member name="P:Furion.Core.Models.SysException.CreateTime">
+            <summary>
+            Research
+            </summary>
+        </member>
+        <member name="P:Furion.Core.Models.SysField.MyTexts">
+            <summary>
+            Research
+            </summary>
+        </member>
+        <member name="P:Furion.Core.Models.SysLog.Message">
+            <summary>
+            Research
+            </summary>
+        </member>
+        <member name="P:Furion.Core.Models.SysLog.Ip">
+            <summary>
+            Research
+            </summary>
+        </member>
+        <member name="P:Furion.Core.Models.SysLog.State">
+            <summary>
+            ResearchDropDown
+            </summary>
+        </member>
+        <member name="P:Furion.Core.Models.SysLog.CreateTime">
+            <summary>
+            Research
+            </summary>
+        </member>
+        <member name="T:Furion.Core.Models.SysMenu">
+            <summary>
+            导航栏
+            </summary>
+        </member>
+        <member name="P:Furion.Core.Models.SysMenu.Name">
+            <summary>
+            Research
+            </summary>
+        </member>
+        <member name="P:Furion.Core.Models.SysMenu.State">
+            <summary>
+            RadioButtonResearch
+            </summary>
+        </member>
+        <member name="P:Furion.Core.Models.SysMessage.ReadTime">
+            <summary>
+            Research
+            </summary>
+        </member>
+        <member name="P:Furion.Core.Models.SysMessage.CreateTime">
+            <summary>
+            Research
+            </summary>
+        </member>
+        <member name="P:Furion.Core.Models.SysMessageTemp.IsDefault">
+            <summary>
+            RadioButton
+            </summary>
+        </member>
+        <member name="P:Furion.Core.Models.SysMessageTemp.CreateTime">
+            <summary>
+            Research
+            </summary>
+        </member>
+        <member name="P:Furion.Core.Models.SysNotice.LostTime">
+            <summary>
+            Research
+            </summary>
+        </member>
+        <member name="P:Furion.Core.Models.SysNotice.CreateTime">
+            <summary>
+            Research
+            </summary>
+        </member>
+        <member name="T:Furion.Core.Models.SysOperation">
+            <summary>
+            操作
+            </summary>
+        </member>
+        <member name="P:Furion.Core.Models.SysOperation.Iconic">
+            <summary>
+            Equal
+            </summary>
+        </member>
+        <member name="P:Furion.Core.Models.SysOperation.State">
+            <summary>
+            ResearchDropDown
+            </summary>
+        </member>
+        <member name="P:Furion.Core.Models.SysOperation.CreateTime">
+            <summary>
+            Research
+            </summary>
+        </member>
+        <member name="P:Furion.Core.Models.SysPerson.Name">
+            <summary>
+            Research
+            </summary>
+        </member>
+        <member name="P:Furion.Core.Models.SysPerson.MyName">
+            <summary>
+            Research
+            </summary>
+        </member>
+        <member name="P:Furion.Core.Models.SysPerson.Sex">
+            <summary>
+            DropDown
+            </summary>
+        </member>
+        <member name="P:Furion.Core.Models.SysPerson.Province">
+            <summary>
+            DropDown
+            </summary>
+        </member>
+        <member name="P:Furion.Core.Models.SysPerson.City">
+            <summary>
+            ProvinceCascade
+            </summary>
+        </member>
+        <member name="P:Furion.Core.Models.SysPerson.Village">
+            <summary>
+            CityCascade
+            </summary>
+        </member>
+        <member name="P:Furion.Core.Models.SysPerson.State">
+            <summary>
+            RadioButtonResearch
+            </summary>
+        </member>
+        <member name="P:Furion.Core.Models.SysPerson.PageStyle">
+            <summary>
+            Display
+            </summary>
+        </member>
+        <member name="P:Furion.Core.Models.SysRole.Name">
+            <summary>
+            Research
+            </summary>
+        </member>
+    </members>
+</doc>
