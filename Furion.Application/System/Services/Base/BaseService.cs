@@ -16,7 +16,7 @@ public class BaseService<T> : IBaseService<T> where T : BaseEntity, IPrivateEnti
         repository = _repository;
     }
 
-    public async Task<PagedList<T>> GetList(int Page, int PageSize)
+    public async Task<PagedList<T>> GetList(int Page=1, int PageSize=10)
     {
         return await repository.AsQueryable().ToPagedListAsync<T>(Page, PageSize);
     }
